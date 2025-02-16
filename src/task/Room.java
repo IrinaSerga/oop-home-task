@@ -1,6 +1,7 @@
 package task;
 
 public class Room {
+
     // проходная ли комната
     private final boolean isWalkThrough;
 

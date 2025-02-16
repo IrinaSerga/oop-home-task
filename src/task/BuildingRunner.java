@@ -15,6 +15,7 @@ public class BuildingRunner {
 
 
     public static void main(String[] args) {
+
         // комнаты
         Room room1 = new Room(false);
         Room room2 = new Room(false);
