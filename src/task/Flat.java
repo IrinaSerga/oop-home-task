@@ -10,7 +10,6 @@ public class Flat {
         this.rooms = rooms;
     }
 
-
     public void print() {
         System.out.println("Номер квартиры: " + flatNumber + ", кол-во комнат: " + rooms.length);
         for (Room room : rooms) {

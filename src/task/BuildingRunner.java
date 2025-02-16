@@ -37,8 +37,10 @@ public class BuildingRunner {
 
         // здание
         Building building = new Building(BUILDING_NUMBER, floors);
-
-        //  о здании целиком
+        // только о здании
+        building.print();
+        System.out.println();
+        //  о здании целиком, подробно
         building.printAllInformation();
 
     }
