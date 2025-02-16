@@ -2,6 +2,7 @@ package task;
 
 public class Floor {
 
+
     private final int floor;
     private final Flat[] flats;
 
