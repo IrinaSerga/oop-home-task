@@ -1,6 +1,7 @@
-package task;
+package task.building;
 
 public class Flat {
+
 
     private final int flatNumber;
     private final Room[] rooms;
