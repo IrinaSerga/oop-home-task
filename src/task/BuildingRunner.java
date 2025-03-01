@@ -1,5 +1,10 @@
 package task;
 
+import task.building.Building;
+import task.building.Flat;
+import task.building.Floor;
+import task.building.Room;
+
 public class BuildingRunner {
     private static final int BUILDING_NUMBER = 19;
 
